@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sabalann Alaeiyeh
+- 👀 I’m interested in web development, particularly front-end, and game development
+- 🌱 I’m currently in my 2nd year of computer science bachelor's at Utrecht University
+- 📫 You can reach me by sending me an email or adding me on LinkedIn! My email is s.alaeiyeh@gmail.com
